@@ -1,0 +1,5 @@
+- **Challenge Decription:** When dimensions don't align with expectations,secrets surface.Only one axis holds the key.
+- **Difficulty:** Easy
+- **Flag Format:** JKKNIU{some_text}
+- **Author:** H3DW19
+- **Flag 🚩:** JKKNIU{H1dd3n_1n_7h3_by735}
